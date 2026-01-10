@@ -1,4 +1,4 @@
-📊 Business Analytics & Data Engineering on Pagila
+📊 Business Analytics & Data Engineering on Pagila Database
 
 Overview 
 
